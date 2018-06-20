@@ -1,7 +1,9 @@
 language: csharp
 
+before_script:
+  - dotnet restore
 script:  
-  - dotnet test ./lab01_tp.Tests
+  - dotnet test ./lab01_tp.Tests -c Release
 
 notifications:
   email:
