@@ -1,5 +1,8 @@
 language: csharp
 
+script:  
+  - dotnet test ./lab01_tp.Tests
+
 notifications:
   email:
     on_success: change
