@@ -1,0 +1,10 @@
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.csprojResolveAssemblyReference.cache
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.CalculatorForm.resources
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.csproj.GenerateResource.Cache
+C:\Users\aandr\source\repos\Calculator\lab01_tp\bin\Debug\lab01_tp.exe.config
+C:\Users\aandr\source\repos\Calculator\lab01_tp\bin\Debug\lab01_tp.exe
+C:\Users\aandr\source\repos\Calculator\lab01_tp\bin\Debug\lab01_tp.pdb
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.Properties.Resources.resources
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.csproj.CoreCompileInputs.cache
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.exe
+C:\Users\aandr\source\repos\Calculator\lab01_tp\obj\Debug\lab01_tp.pdb
