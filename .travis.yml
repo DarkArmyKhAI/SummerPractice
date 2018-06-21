@@ -1,10 +1,13 @@
 language: csharp
 
-before_script:
-  - dotnet restore
-script:  
-  - dotnet test ./lab01_tp.Tests -c Release
-
+solution: Calculator.sln
+install:
+  - nuget restore Calculator.sln
+  - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+script:
+  - xbuild /p:Configuration=Release Calculator.sln
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./lab01_tp.Tests/bin/Release/lab01_tp.Tests.dll
+  
 notifications:
   email:
     on_success: change
