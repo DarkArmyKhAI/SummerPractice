@@ -1,0 +1,29 @@
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.exe.config
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.exe
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.pdb
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csprojResolveAssemblyReference.cache
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.Form1.resources
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.Properties.Resources.resources
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.GenerateResource.Cache
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.CoreCompileInputs.cache
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.exe
+C:\Users\iveli\source\repos\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.pdb
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.exe.config
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.exe
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.pdb
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.Form1.resources
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.Properties.Resources.resources
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.exe
+C:\Users\student\Downloads\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.pdb
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.exe.config
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.exe
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\bin\Debug\Sqr_Equations.pdb
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csprojResolveAssemblyReference.cache
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.Form1.resources
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.Properties.Resources.resources
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.GenerateResource.Cache
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.CoreCompileInputs.cache
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.exe
+C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.pdb

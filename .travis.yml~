@@ -1,0 +1,11 @@
+language: csharp
+solution: "./Sqr_Equations.sln"
+install:
+- travis_retry nuget restore -source "https://www.nuget.org/api/v2" ./Sqr_Equations.sln
+script:
+- xbuild ./Sqr_Equations.sln
+
+notifications:
+  email:
+    on_success: change
+    on_failure: always
