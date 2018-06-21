@@ -6,7 +6,7 @@ install:
   - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
 script:
   - msbuild /p:Configuration=Release Calculator.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./lab01_tp.Tests/bin/Release/lab01_tpTests.dll
+  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./lab01_tp.Tests/bin/Release/lab01_tp.Tests.dll
   
 notifications:
   email:
