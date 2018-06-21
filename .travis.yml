@@ -1,4 +1,7 @@
 language: csharp
+solution: "./Sqr_Equations.sln"
+script:
+- xbuild ./Sqr_Equations.sln
 
 notifications:
   email:
