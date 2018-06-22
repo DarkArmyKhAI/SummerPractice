@@ -1,4 +1,11 @@
 language: csharp
+solution: Sqr_Equations.sln
+install:
+  - nuget restore Sqr_Equations.sln
+  - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Release Sqr_Equations.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./SqrTest/bin/Release/SqrTest.dll
 
 script:  
   - dotnet test ./lab01_tp.Tests
