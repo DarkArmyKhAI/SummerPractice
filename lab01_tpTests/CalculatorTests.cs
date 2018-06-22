@@ -1,18 +1,18 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using lab01_tp;
+﻿using lab01_tp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NUnit.Framework;
 
 namespace lab01_tp.Tests
 {
-    [TestClass()]
+    [TestFixture]
     public class CalculatorTests
     {
 
-        [TestMethod()]
+        [Test]
         public void MultiplicationTest()
         {
             // исходные данные
@@ -29,7 +29,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void DivisionTest()
         {
             // исходные данные
@@ -46,7 +46,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void SumTest()
         {
             // исходные данные
@@ -63,7 +63,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void SubtractionTest()
         {
             // исходные данные
@@ -80,7 +80,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void SquareTest()
         {
             // исходные данные
@@ -96,7 +96,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void FactorialTest()
         {
             // исходные данные
@@ -112,7 +112,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void PowTest()
         {
             // исходные данные
@@ -128,7 +128,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void SinusTest()
         {
             // исходные данные
@@ -144,7 +144,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void CosinusTest()
         {
             // исходные данные
@@ -160,7 +160,7 @@ namespace lab01_tp.Tests
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod()]
+        [Test]
         public void XDivisionTest()
         {
             // исходные данные

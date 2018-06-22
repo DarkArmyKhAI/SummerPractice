@@ -14,3 +14,6 @@ C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\obj\Release\lab01_tpTests.c
 C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\obj\Release\lab01_tpTests.csproj.CoreCompileInputs.cache
 C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\obj\Release\lab01_tpTests.dll
 C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\obj\Release\lab01_tpTests.pdb
+C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\bin\Release\nunit.framework.dll
+C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\bin\Release\nunit.framework.pdb
+C:\Users\aandr\Practice\SummerPractice\lab01_tpTests\bin\Release\nunit.framework.xml
