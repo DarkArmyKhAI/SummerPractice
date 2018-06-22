@@ -1,13 +1,13 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Sqr_Equations;
+using NUnit.Framework;
 
 namespace SqrTest
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void SqrSolveDescPos()
         {
 
@@ -24,7 +24,7 @@ namespace SqrTest
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod]
+        [Test]
         public void SqrSolveDescNeg()
         {
             // arrange  
@@ -39,7 +39,7 @@ namespace SqrTest
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod]
+        [Test]
         public void SqrSolveDescZero()
         {
             // arrange  
@@ -55,7 +55,7 @@ namespace SqrTest
             Assert.AreEqual(expected, actual);
         }
 
-        [TestMethod]
+        [Test]
         public void SqrSolveZeroCoeffs()
         {
             // arrange  
@@ -67,7 +67,7 @@ namespace SqrTest
             s.Solve(out x1, out x2);
         }
 
-        [TestMethod]
+        [Test]
         public void SqrSolveComplexTest()
         {
             // arrange  

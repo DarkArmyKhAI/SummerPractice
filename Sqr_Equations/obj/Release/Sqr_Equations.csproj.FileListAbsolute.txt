@@ -1,0 +1,10 @@
+C:\Ivan\projects\sqr\Sqr_Equations\bin\Release\Sqr_Equations.exe.config
+C:\Ivan\projects\sqr\Sqr_Equations\bin\Release\Sqr_Equations.exe
+C:\Ivan\projects\sqr\Sqr_Equations\bin\Release\Sqr_Equations.pdb
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.csprojAssemblyReference.cache
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.Form1.resources
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.Properties.Resources.resources
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.csproj.GenerateResource.cache
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.csproj.CoreCompileInputs.cache
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.exe
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Release\Sqr_Equations.pdb

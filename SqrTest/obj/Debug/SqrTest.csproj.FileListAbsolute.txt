@@ -36,3 +36,26 @@ C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\SqrTest\obj\Debug\SqrTes
 C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\SqrTest\obj\Debug\SqrTest.csproj.CoreCompileInputs.cache
 C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\SqrTest\obj\Debug\SqrTest.dll
 C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\SqrTest\obj\Debug\SqrTest.pdb
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\SqrTest.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\SqrTest.pdb
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\nunit.framework.dll
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Sqr_Equations.exe
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Sqr_Equations.pdb
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Sqr_Equations.exe.config
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\nunit.framework.pdb
+C:\Ivan\projects\sqr\SqrTest\bin\Debug\nunit.framework.xml
+C:\Ivan\projects\sqr\SqrTest\obj\Debug\SqrTest.csprojAssemblyReference.cache
+C:\Ivan\projects\sqr\SqrTest\obj\Debug\SqrTest.csproj.CoreCompileInputs.cache
+C:\Ivan\projects\sqr\SqrTest\obj\Debug\SqrTest.csproj.CopyComplete
+C:\Ivan\projects\sqr\SqrTest\obj\Debug\SqrTest.dll
+C:\Ivan\projects\sqr\SqrTest\obj\Debug\SqrTest.pdb

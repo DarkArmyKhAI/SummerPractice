@@ -27,3 +27,13 @@ C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\
 C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.CoreCompileInputs.cache
 C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.exe
 C:\Users\iveli\Downloads\Telegram Desktop\Sqr_Equations\Sqr_Equations\obj\Debug\Sqr_Equations.pdb
+C:\Ivan\projects\sqr\Sqr_Equations\bin\Debug\Sqr_Equations.exe.config
+C:\Ivan\projects\sqr\Sqr_Equations\bin\Debug\Sqr_Equations.exe
+C:\Ivan\projects\sqr\Sqr_Equations\bin\Debug\Sqr_Equations.pdb
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.csprojAssemblyReference.cache
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.Form1.resources
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.Properties.Resources.resources
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.GenerateResource.cache
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.csproj.CoreCompileInputs.cache
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.exe
+C:\Ivan\projects\sqr\Sqr_Equations\obj\Debug\Sqr_Equations.pdb
