@@ -1,8 +1,12 @@
 language: csharp
-
-script:  
-  - dotnet test ./lab01_tp.Tests
-
+solution: Lab02TP.sln
+install:
+  - nuget restore Lab02TP.sln
+  - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Release Lab02TP.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./UnitTests/bin/Release/UnitTests.dll
+  
 notifications:
   email:
     on_success: change
