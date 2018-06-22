@@ -1,0 +1,10 @@
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.Form.resources
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.Properties.Resources.resources
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.GenerateResource.Cache
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\aandr\source\repos\Lab02TP\QuadraticEquation\obj\Debug\QuadraticEquation.pdb
