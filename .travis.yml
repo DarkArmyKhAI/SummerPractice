@@ -2,10 +2,10 @@ language: csharp
 solution: Sqr_Equations.sln
 install:
   - nuget restore Sqr_Equations.sln
-  - nuget install NUnit.Runners -Version 3.10.1 -OutputDirectory testrunner
+  - nuget install NUnit.Runners -Version 2.6.4 -OutputDirectory testrunner
 script:
   - xbuild /p:Configuration=Release Sqr_Equations.sln
-  - mono ./testrunner/NUnit.Runners.3.10.1/tools/nunit-console.exe ./SqrTest/bin/Release/SqrTest.dll
+  - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./SqrTest/bin/Release/SqrTest.dll
 
 notifications:
   email:
