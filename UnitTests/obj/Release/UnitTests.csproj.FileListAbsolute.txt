@@ -1,0 +1,11 @@
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\UnitTests.dll
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\UnitTests.pdb
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\lab01_tp.exe
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\nunit.framework.dll
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\lab01_tp.pdb
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\lab01_tp.exe.config
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\nunit.framework.pdb
+C:\Users\aandr\Practice\SummerPractice\UnitTests\bin\Release\nunit.framework.xml
+C:\Users\aandr\Practice\SummerPractice\UnitTests\obj\Release\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\aandr\Practice\SummerPractice\UnitTests\obj\Release\UnitTests.dll
+C:\Users\aandr\Practice\SummerPractice\UnitTests\obj\Release\UnitTests.pdb

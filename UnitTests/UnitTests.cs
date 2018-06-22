@@ -6,12 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 
-namespace lab01_tp.Tests
+namespace UnitTests
 {
     [TestFixture]
-    public class CalculatorTests
+    public class UnitTests
     {
-
         [Test]
         public void MultiplicationTest()
         {
