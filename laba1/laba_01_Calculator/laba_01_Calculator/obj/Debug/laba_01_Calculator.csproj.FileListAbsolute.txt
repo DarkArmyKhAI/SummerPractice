@@ -1,9 +1,0 @@
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\bin\Debug\laba_01_Calculator.exe.config
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\bin\Debug\laba_01_Calculator.exe
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\bin\Debug\laba_01_Calculator.pdb
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\obj\Debug\laba_01_Calculator.csprojResolveAssemblyReference.cache
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\obj\Debug\laba_01_Calculator.Form1.resources
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\obj\Debug\laba_01_Calculator.Properties.Resources.resources
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\obj\Debug\laba_01_Calculator.csproj.GenerateResource.Cache
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\obj\Debug\laba_01_Calculator.exe
-c:\users\nikita\documents\visual studio 2015\Projects\laba_01_Calculator\laba_01_Calculator\obj\Debug\laba_01_Calculator.pdb
