@@ -1,0 +1,16 @@
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Lab4Tests.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Lab4Tests.pdb
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Lab4.exe
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Lab4.pdb
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Lab4.exe.config
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\obj\Debug\Lab4Tests.csprojResolveAssemblyReference.cache
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\obj\Debug\Lab4Tests.csproj.CoreCompileInputs.cache
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\obj\Debug\Lab4Tests.dll
+E:\Studies\Labs\Tp\Lab4\Lab4\Lab4Tests\obj\Debug\Lab4Tests.pdb
