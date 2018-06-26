@@ -1,0 +1,9 @@
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\bin\Debug\laba_01_Calculator.exe
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\bin\Debug\laba_01_Calculator.pdb
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_01_Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
