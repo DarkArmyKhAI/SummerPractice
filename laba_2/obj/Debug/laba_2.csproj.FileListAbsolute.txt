@@ -1,0 +1,9 @@
+c:\users\nikita\documents\visual studio 2015\Projects\laba_2\laba_2\bin\Debug\laba_2.exe.config
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\bin\Debug\laba_2.exe
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\bin\Debug\laba_2.pdb
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\obj\Debug\laba_2.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\obj\Debug\laba_2.Form1.resources
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\obj\Debug\laba_2.Properties.Resources.resources
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\obj\Debug\laba_2.csproj.GenerateResource.Cache
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\obj\Debug\laba_2.exe
+C:\Users\Nikita\documents\visual studio 2015\Projects\laba_2\laba_2\obj\Debug\laba_2.pdb
