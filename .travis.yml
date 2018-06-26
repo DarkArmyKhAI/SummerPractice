@@ -1,8 +1,12 @@
 language: csharp
-
-script:  
-  - dotnet test ./lab01_tp.Tests
-
+solution: laba_01_Calculator.sln
+install:
+  - nuget restore laba_01_Calculator.sln
+  - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Release laba_01_Calculator.sln
+  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./UnitTestProject1/bin/Debug/UnitTestProject1.dll
+  
 notifications:
   email:
     on_success: change
